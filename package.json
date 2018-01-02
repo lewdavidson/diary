@@ -1,0 +1,24 @@
+{
+  "name": "dear-diarrhea",
+  "version": "1.0.0",
+  "description": "diary",
+  "main": "index.js",
+  "scripts": {
+    "test": "poopy"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^14.5.0",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-jquery": "^1.1.2",
+    "gulp-jshint": "^2.1.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-util": "^3.0.8",
+    "jquery": "^3.2.1",
+    "jshint": "^2.9.5",
+    "vinyl-source-stream": "^2.0.0"
+  }
+}
